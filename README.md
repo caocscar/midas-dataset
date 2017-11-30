@@ -4,8 +4,8 @@ Date Range: Apr 1, 2013 (TripStart 41365) to Apr 30, 2013 (TripStart 41394)
 
 Description|Count
 ---|---
-Vehicles|50
-Trips|6734
+Vehicles|106
+Trips|14223
 Videos|6714
 AVi Videos|127.2 GB
 
