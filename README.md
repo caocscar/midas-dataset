@@ -6,8 +6,8 @@ Description|Count
 ---|---
 Vehicles|106
 Trips|14223
-Videos|6714
-AVi Videos|127.2 GB
+Videos|14000
+AVI Videos|250 GB
 
 
 # 4Vehicle Dataset
