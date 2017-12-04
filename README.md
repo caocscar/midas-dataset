@@ -1,12 +1,12 @@
-# MIDAS One Month Dataset Notes
+# MIDAS Two Month Dataset Notes
 
-Date Range: Apr 1, 2013 (TripStart 41365) to Apr 30, 2013 (TripStart 41394)
+Date Range: Mar 1, 2013 (TripStart 41334) to Apr 30, 2013 (TripStart 41394)
 
-Description|Count
+Description|Count|
 ---|---
 Vehicles|106
-Trips|14223
-Videos|14074
+Trips|26425
+Videos|26146
 AVI Videos|250 GB
 
 
