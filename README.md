@@ -7,8 +7,19 @@ Description|Count|
 Vehicles|106
 Trips|26425
 Videos|26146
-AVI Videos|250 GB
+AVI Videos|488 GB
 
+~|BSM|No BSM|Total
+---|---:|---:|---:
+Video|1|2|3
+No Video|2|3|4
+Total|3|4|5
+
+~|DAS|No DAS|Total
+---|---:|---:|---:
+Video|1|2|3
+No Video|2|3|4
+Total|3|4|5
 
 # 4Vehicle Dataset
 
