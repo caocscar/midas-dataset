@@ -11,15 +11,15 @@ AVI Videos|488 GB
 
 ~|BSM|No BSM|Total
 ---|---:|---:|---:
-Video|1|2|3
-No Video|2|3|4
-Total|3|4|5
+Video|16832|9314|26146
+No Video|2|3|279
+Total|3|4|26425
 
 ~|DAS|No DAS|Total
 ---|---:|---:|---:
-Video|1|2|3
-No Video|2|3|4
-Total|3|4|5
+Video|26102|44|26146
+No Video|173|106|279
+Total|26275|150|26425
 
 # 4Vehicle Dataset
 
