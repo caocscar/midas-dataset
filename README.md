@@ -7,6 +7,8 @@ Description|Count|
 Vehicles|106
 Trips|26425
 AVI Videos|488 GB
+BsmP1|26 GB
+DataDas|36 GB
 
 ~|BSM|No BSM|Total
 ---|---:|---:|---:
