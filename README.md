@@ -9,6 +9,7 @@ Trips|26425
 AVI Videos|488 GB
 BsmP1|26 GB
 DataDas|49 GB
+Relations Table|18 GB
 
 ~|BSM|No BSM|Total
 ---|---:|---:|---:
@@ -29,7 +30,7 @@ The 4 vehicles are: 10204, 10205, 10207, 10502
 Description|Count (Size)
 ---|---
 Vehicles|4
-Videos|11031
-AVI Videos|236 GB
+Videos|11030
+AVI Videos|242 GB
 
 
