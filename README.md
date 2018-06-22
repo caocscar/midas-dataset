@@ -39,7 +39,7 @@ AVI Videos|242 GB
 2. Use Mich's `MakeAviFile.exe` Windows executable to convert this customized file to standard AVI file (manual step). You will need to install the software first on a Windows machine. The program will construct an AVI file from the individual frames in the file with the timestamp you specified in fps. 
 3. Query *IndexForward* table in *SpFot* database to find closest `VideoTime` to given timestamps (centiseconds). You will need server access for this step.
 4. Find associated `ForwardCount` (frame number).
-5. Subtract offset frame number (assuming it doesn't start at frame 0).
+5. Subtract offset (assuming it doesn't start at frame 0) to get the frame number. Or you use the index of `pandas` DataFrame from the query in step #3.
 6. Knowing the fps and the frame number, we can specify the appropriate timeframe in seconds as the offset frame number divided by 10 for the `ffmpeg` command. You will need to have `ffmpeg` installed beforehand.
 
 For example, the following command specifies a window from 779.1 to 783.7 seconds since we know the AVI was created at 10 fps and we are interested in frames 7791 to 7837 (which corresponds to `ForwardCount` 7800 and 7846, respectively).
