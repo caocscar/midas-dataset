@@ -36,7 +36,7 @@ AVI Videos|242 GB
 
 # How to Construct AVI Videos from IVBSS viewer video
 1. Find existing forward video bin file on UMTRI server using the **device and trip id**. You will need server access for this step.
-2. Use Mich's `MakeAviFile.exe` Windows executable to convert this customized file to standard AVI file (manual step). You will need to install the software first on a Windows machine. The program will construct an AVI file from the individual frames in the file with the timestamp you specified in fps. 
+2. Use Mich Rasulis' `MakeAviFile.exe` Windows executable to convert this customized file to standard AVI file (manual step). You will need to install the software first on a Windows machine. The program will construct an AVI file from the individual frames in the file with the timestamp you specified in fps. 
 3. Query *IndexForward* table in *SpFot* database to find closest `VideoTime` to given timestamps (centiseconds). You will need server access for this step.
 4. Find associated `ForwardCount` (frame number).
 5. Subtract offset (assuming it doesn't start at frame 0) to get the frame number. Or you use the index of `pandas` DataFrame from the query in step #3.
